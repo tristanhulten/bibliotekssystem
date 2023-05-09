@@ -1,0 +1,15 @@
+C:\Users\Tristan\source\repos\BibliotekApp\bin\Debug\net6.0\BibliotekApp.exe
+C:\Users\Tristan\source\repos\BibliotekApp\bin\Debug\net6.0\BibliotekApp.deps.json
+C:\Users\Tristan\source\repos\BibliotekApp\bin\Debug\net6.0\BibliotekApp.runtimeconfig.json
+C:\Users\Tristan\source\repos\BibliotekApp\bin\Debug\net6.0\BibliotekApp.dll
+C:\Users\Tristan\source\repos\BibliotekApp\bin\Debug\net6.0\BibliotekApp.pdb
+C:\Users\Tristan\source\repos\BibliotekApp\obj\Debug\net6.0\BibliotekApp.csproj.AssemblyReference.cache
+C:\Users\Tristan\source\repos\BibliotekApp\obj\Debug\net6.0\BibliotekApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tristan\source\repos\BibliotekApp\obj\Debug\net6.0\BibliotekApp.AssemblyInfoInputs.cache
+C:\Users\Tristan\source\repos\BibliotekApp\obj\Debug\net6.0\BibliotekApp.AssemblyInfo.cs
+C:\Users\Tristan\source\repos\BibliotekApp\obj\Debug\net6.0\BibliotekApp.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\source\repos\BibliotekApp\obj\Debug\net6.0\BibliotekApp.dll
+C:\Users\Tristan\source\repos\BibliotekApp\obj\Debug\net6.0\refint\BibliotekApp.dll
+C:\Users\Tristan\source\repos\BibliotekApp\obj\Debug\net6.0\BibliotekApp.pdb
+C:\Users\Tristan\source\repos\BibliotekApp\obj\Debug\net6.0\BibliotekApp.genruntimeconfig.cache
+C:\Users\Tristan\source\repos\BibliotekApp\obj\Debug\net6.0\ref\BibliotekApp.dll
